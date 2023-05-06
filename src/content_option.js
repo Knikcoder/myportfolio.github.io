@@ -1,38 +1,66 @@
-const logotext = "JOHN";
+const logotext = "KNIK";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "KUMAR RAJA",
+    description: "I am Bammidi Kumar Raja, a recent graduate in Electrical and Electronics Engineering with a minor in Information Technology from JNTU-GVUCE, Andhra Pradesh. I am an aspiring web developer with a passion for coding and developing new projects. I am always eager to learn and explore new technologies.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Kumar Raja",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I write short Codes",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am Bammidi Kumar Raja, a recent graduate in Electrical and Electronics Engineering with a minor in Information Technology from JNTU-GVUCE, Andhra Pradesh. I am an aspiring web developer with a passion for coding and developing new projects. I am always eager to learn and explore new technologies.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about my self",
+    aboutme: "In the realm of Information Technology,
+    Bammidi Kumar Raja holds his own weight,
+    With a mind for coding and a passion to innovate,
+    He sets out to craft projects that fascinate.
+    
+    Languages like HTML, CSS, and JavaScript,
+    Are but a few tools in his coding armament,
+    With Bootstrap and Node JS, React JS too,
+    His skills in web development ring true.
+    
+    Mongo dB and SQL, C programming as well,
+    Python and R basics, he has under his spell,
+    For data mining and medicine management,
+    He's proven to be a force to reckon with.
+    
+    In the halls of academia, he's made his mark,
+    With a CGPA of 8.07, he's shone bright like a spark,
+    A certification from SWAYAM NPTEL, he has to show,
+    And Udemy courses on CSS, SQL, and JS, he does know.
+    
+    Internships at Oasis Infobyte and PPM,
+    Have honed his skills and made him a gem,
+    And with a website for a National Symposium,
+    And a tribute page, he's shown his creative wisdom.
+    
+    Bammidi Kumar Raja, a name to remember,
+    A bright mind in the world of web development and more,
+    With a passion for coding and a thirst for knowledge,
+    He sets out to leave his mark on the digital age's edge.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Electrical Graduate ",
+        where: "JNTUGV, Vizianagaram",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "IT minor Graduate",
+        where: "JNTUGV, Vizianagaram",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Web development Intern",
+        where: "Oasis Infobyte",
+        date: "2022",
     },
 ];
 
@@ -41,8 +69,8 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "J2EE(Java)",
+        value: 75,
     },
     {
         name: "Javascript",
